@@ -7,7 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "\u6211\u4FEE\u6539\u7684\u6750\u8D28 \u4F1A\u663E\u793A\u5728\u8FD9\u91CC"
+  m_Name: "\u6211\u4FEE\u6539\u7684\u6750\u8D28 \u4F1A\u663E\u793A\u5728\u8FD9\u91CC
+    \u662F\u84DD\u8272\u7684"
   m_Shader: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -75,6 +76,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0, g: 1, b: 0.16154456, a: 1}
+    - _Color: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
