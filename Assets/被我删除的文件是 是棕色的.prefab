@@ -107,9 +107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6380742182946863515}
   m_Layer: 0
-  m_Name: "\u6211\u521B\u5EFA\u7684\uFF0C\u8FDC\u7A0B\u6CA1\u6709\u7684\u6587\u4EF6 
-    \u5C31\u4F1A\u663E\u793A\u5728\u8FD9\u4E00\u680F \u5B57\u4F53\u662F\u9ED1\u8272\u7684
-    \u8BB0\u5F97"
+  m_Name: "\u88AB\u6211\u5220\u9664\u7684\u6587\u4EF6\u662F \u662F\u68D5\u8272\u7684"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
